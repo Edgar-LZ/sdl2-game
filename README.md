@@ -7,5 +7,6 @@ Compile with:
 gcc main.c init.c draw.c input.c `sdl2-config --libs --cflags` -ggdb3 -O0 --std=c99 -Wall -lSDL2_image -lm
 ```
 
-Currently, the game looks like this
+Currently, the game looks like this, but it is still in developement:
+
 ![Current screenshot of the game](/Current.png "Current screenshot of the game")
